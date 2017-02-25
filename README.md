@@ -4,7 +4,7 @@ This extension displays region code sections (ala XCode, Eclipes) comments in 'G
 It will help you quickly scan longer files.
 
 ## What does it looks like?
-![Like this](https://raw.githubusercontent.com/dzannotti/vscode-babel/master/images/screenshot.png "Screenshot")
+![Like this](https://raw.githubusercontent.com/vaderdan/vscode-better-go-to/master/screenshot.png "Screenshot")
 
 ## Ok I'm sold how do I try it?
 You can find it on VSCode Marketplace

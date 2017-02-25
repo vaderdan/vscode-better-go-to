@@ -7,6 +7,11 @@
     "engines": {
         "vscode": "^1.8.0"
     },
+    "repository" :
+    { 
+        "type" : "git",
+        "url" : "https://github.com/vaderdan/vscode-better-go-to.git"
+    },
     "categories": [
         "Other"
     ],

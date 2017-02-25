@@ -3,7 +3,8 @@
     "displayName": "BetterGoTo",
     "description": "",
     "version": "0.0.1",
-    "publisher": "dannylazarow",
+    "publisher": "dannylazarov",
+    "icon": "logo.png",
     "engines": {
         "vscode": "^1.8.0"
     },

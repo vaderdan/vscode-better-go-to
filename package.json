@@ -2,7 +2,7 @@
     "name": "bettergoto",
     "displayName": "BetterGoTo",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "dannylazarov",
     "icon": "logo.png",
     "engines": {
